@@ -7,5 +7,10 @@
     "remote": "gitlab",
     "repository": "NoPrincessHere/proprietary_vendor_miuicamera-sweet",
     "target_path": "vendor/miuicamera-sweet"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "NoPrincessHere/proprietary_vendor_oneplus_dolby",
+    "target_path": "vendor/oneplus/dolby"
   }
 ]
