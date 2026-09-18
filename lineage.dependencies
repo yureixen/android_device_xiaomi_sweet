@@ -1,16 +1,39 @@
 [
   {
-    "repository": "android_device_xiaomi_sm6150-common",
-    "target_path": "device/xiaomi/sm6150-common"
+    "repository": "LineageOS/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi_sweet",
+    "target_path": "vendor/xiaomi/sweet",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "LineageOS/android_kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-23.2"
   },
   {
     "remote": "gitlab",
     "repository": "NoPrincessHere/proprietary_vendor_miuicamera-sweet",
-    "target_path": "vendor/miuicamera-sweet"
+    "target_path": "vendor/miuicamera-sweet",
+    "branch": "sixteen-qpr2"
   },
   {
     "remote": "gitlab",
     "repository": "NoPrincessHere/proprietary_vendor_oneplus_dolby",
-    "target_path": "vendor/oneplus/dolby"
+    "target_path": "vendor/oneplus/dolby",
+    "branch": "sixteen-qpr2"
   }
 ]
